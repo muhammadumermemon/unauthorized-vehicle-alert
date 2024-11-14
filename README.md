@@ -21,7 +21,7 @@ The Unauthorized Vehicle Alert system is an interactive Dart application where v
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/unauthorized-vehicle-alert.git
+    git clone https://github.com/muhammadumermemon/unauthorized-vehicle-alert.git
     ```
 
 2. **Navigate to the project directory:**
